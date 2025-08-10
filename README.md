@@ -254,19 +254,23 @@ WHERE rs.return_id IS NULL;
 - **Data Analysis**: Insights into book categories, employee salaries, member registration trends, and issued books.
 - **Summary Reports**: Aggregated data on high-demand books and employee performance.
 
+## Conclusion
+
+This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis.
+
 ## How to Use
 
 1. **Clone the Repository**: Clone this repository to your local machine.
    ```sh
    git clone https://github.com/Ujwal0712/Library_System_management_p2.git
    ```
-
 2. **Set Up the Database**: Execute the SQL scripts in the `database_setup.sql` file to create and populate the database.
 3. **Run the Queries**: Use the SQL queries in the `analysis_queries.sql` file to perform the analysis.
 4. **Explore and Modify**: Customize the queries as needed to explore different aspects of the data or answer additional questions.
 
-## Conclusion
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/ujwal-mendhe-0652b62ba/)
+- **Github**: [Connect with me professionally](https://github.com/Ujwal0712)
 
-This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis.
+Thank you for your support, and I look forward to connecting with you!
 
 
